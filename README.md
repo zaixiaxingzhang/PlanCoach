@@ -10,7 +10,6 @@ PlanCoach 是一个基于 HTML、CSS 和 JavaScript 构建的单页应用 (SPA)�
 - **前端**: HTML5, CSS3, JavaScript (ES6+)
 - **本地存储**: localStorage
 - **API 通信**: Fetch API
-- **打包/部署**: 通过 `manifest.json` 配置，支持打包为移动应用 (Android/iOS)
 
 ## 项目结构
 
